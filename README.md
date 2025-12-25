@@ -25,12 +25,20 @@ Our implementation replaces basis function, that are static with adaptive that a
 
 Full research paper [here](https://drive.google.com/file/d/1qn3eyyuICa2K2_DajJhyqdH0dTrU3tM1/view?usp=sharing)
 
+# Thanks
+I would like to share my sincere thanks and appreciations to the following authors from where I get code snippets for my research:
+ * Professor Matthew Johnson, Department of Engineering at University of Cambridge, for showing Fourier Feature Networks. Full repository can be found [here](https://github.com/matajoh/fourier_feature_nets)
+ * Blealtan, for showing KAN network implementation. Full repository can be found [here](https://github.com/Blealtan/efficient-kan/tree/master)
+
+
 
 # How to run
 
 The ```pip install``` commands are already on the notebook, however, for running locally:
 
 ```pip install -r requirements.txt```
+
+This notebook can be run in colab
 
 And press run on the notebook
 Any Questions: william1binki@gmail.com
