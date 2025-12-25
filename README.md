@@ -1,4 +1,4 @@
-# Adaptive Functions for Enhanced Kolmogorov Arnold Networks (KANs)
+# AdaBFs-for-KANs: Introducing Adaptive Basis Functions for Kolmogorov Arnold Networks
 
 This research explores the use of Adaptive Basis Functions to improve the representational power of Kolmogorov–Arnold Networks (KANs), a function approximation framework inspired by the Kolmogorov–Arnold representation theorem.
 
